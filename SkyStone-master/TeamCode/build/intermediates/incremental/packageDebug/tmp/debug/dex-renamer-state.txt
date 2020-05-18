@@ -1,0 +1,4 @@
+#Sat May 02 08:17:14 EDT 2020
+base.0=C\:\\Robotics\\SkyStone-master\\TeamCode\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
